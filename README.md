@@ -1,16 +1,28 @@
-## Hi there 👋
+# Neil Proctor
 
-<!--
-**nproctor-dev/nproctor-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Systems & Development Engineer specializing in infrastructure and platform engineering, network and security, UC/UCaaS, virtualization, and automation.
 
-Here are some ideas to get you started:
+## Areas of Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Infrastructure & Platform Engineering
+- Network Architecture & Security
+- Unified Communications & UCaaS
+- Virtualization: VMware, Proxmox VE, KVM/libvirt
+- Windows & Linux Systems Engineering
+- Infrastructure Automation & Deployment Tooling
+- Enterprise Compute, Storage & Networking
+
+## Current Work
+
+I'm currently developing and publishing reusable engineering tools focused on:
+
+- Infrastructure provisioning and deployment
+- Systems administration
+- Virtualization
+- Windows and Linux automation
+- Repeatable validation and lifecycle operations
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/nproctor-dev)
+- [Website](https://pttsllc.com)
